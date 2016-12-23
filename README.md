@@ -4,10 +4,8 @@ Use JAVA and JSP to design, functions are similar to KAYAK.
 
 Fly By Night Airlines will be a new way to purchase airline flight tickets. We will allow customers to purchase them directly using a computer! With a few clicks they can search and reserve a plane ticket for a given day.
 
-They can purchase a round trip or one way ticket.
-
+They can purchase a round trip or one way ticket
 They can specify the dates of travel
-
 They can specify the window of travel (when they leave, when they arrive)
 
 They can specify first class or coach for the travel
